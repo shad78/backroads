@@ -198,7 +198,7 @@ Navbar
 }
 
 .nav-center {
-  width: 100%;
+  width: calc(100vw - 2rem);
   max-width: 1170px;
   margin: 0 auto;
 }
